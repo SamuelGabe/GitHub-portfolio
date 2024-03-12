@@ -31,11 +31,11 @@ In my final year project, I worked alongside my project partner to analyse a lar
 * Using Python to work with data
 * Collaboration with supervisor and project partner
 
-[📄 View project report]()
+[📄 View project report](masters-project/Masters-Project-Report.pdf)
 
-[💻 View project code]()
+[💻 View project code](masters-project/)
 
-**Please note that I do not have the right to upload the data to the web.**
+**Please note that the data used is not included as I do not have the right to upload the data to the web.**
 
 ## Traffic flow project
 This was a mini-project where I used Python to find out how traffic flow is affected depending on how many lanes there are. To do this I used a pre-existing model of traffic flow, then adapted it to a two-lane model, and compared traffic flow in both circumstances.
@@ -45,9 +45,9 @@ This was a mini-project where I used Python to find out how traffic flow is affe
 * Creating mathematical models and implementing them in code
 * Using this code to conduct investigations
 
-[📄 View project report]()
+[📄 View project report](traffic-flow-project/Scientific-Computing-Report.pdf)
 
-[💻 View project code]()
+[💻 View project code (separate repository)](https://github.com/UoNPhysics/scientific-computing-project-SamuelGabe)
 
 ## Third Year Project
 In my third year project, I worked with a partner to use machine learning to categorise images of space based on whether or not they had been gravitationally lensed. We successfully accomplished this task and created a model which categorised the images with 96% accuracy. 
@@ -57,9 +57,9 @@ In my third year project, I worked with a partner to use machine learning to cat
 * Machine learning
   * TensorFlow
 
-[📄 View project report]()
+[📄 View project report](third-year-project/Third-Year-Project-Notebook.pdf)
 
-[📒 View project notebook (includes examples of code used)]()
+[📒 View project notebook (includes examples of code used)](third-year-project/Third-Year-Project-Report.pdf)
 
 ## Investigating the Rotating Wave Approximation
 The rotating wave approximation (RWA) is an approximation used in quantum mechanics to approximate a quantum system. In this project I used code to investigate how accurate this approximation is by comparing graphs made using the rotating wave approximation, and graphs made with a more accurate model.
@@ -69,9 +69,9 @@ The rotating wave approximation (RWA) is an approximation used in quantum mechan
 * Using Python to investigate physics
 * NumPy and Matplotlib
 
-[📄 View project report]()
+[📄 View project report](investigating-the-rwa/Investigating-the-RWA-report.pdf)
 
-[💻 View project code]()
+[💻 View project code](investigating-the-rwa/)
 
 
 

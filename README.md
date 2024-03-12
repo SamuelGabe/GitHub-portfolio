@@ -45,9 +45,19 @@ This was a mini-project where I used Python to find out how traffic flow is affe
 * Creating mathematical models and implementing them in code
 * Using this code to conduct investigations
 
-[📄 View project report](traffic-flow-project/Scientific-Computing-Report.pdf)
+[📄 View project report](traffic-flow-project/Traffic-Flow-Report.pdf)
 
 [💻 View project code (separate repository)](https://github.com/UoNPhysics/scientific-computing-project-SamuelGabe)
+
+## App Design Project
+I took a module from the Computer Science department where I made an app design for a festival and tested it on users. 
+
+**Skills**
+* UI/UX design
+* Testing on users and gathering feedback
+
+[View report 1: Designing the app](app-design/Design-Report.pdf)
+[View report 2: Testing the design with users](app-design/Test-Report.pdf)
 
 ## Third Year Project
 In my third year project, I worked with a partner to use machine learning to categorise images of space based on whether or not they had been gravitationally lensed. We successfully accomplished this task and created a model which categorised the images with 96% accuracy. 
@@ -57,9 +67,9 @@ In my third year project, I worked with a partner to use machine learning to cat
 * Machine learning
   * TensorFlow
 
-[📄 View project report](third-year-project/Third-Year-Project-Notebook.pdf)
+[📄 View project report](third-year-project/Third-Year-Project-Report.pdf)
 
-[📒 View project notebook (includes examples of code used)](third-year-project/Third-Year-Project-Report.pdf)
+[📒 View project notebook (includes examples of code used)](third-year-project/Third-Year-Project-Notebook.pdf)
 
 ## Investigating the Rotating Wave Approximation
 The rotating wave approximation (RWA) is an approximation used in quantum mechanics to approximate a quantum system. In this project I used code to investigate how accurate this approximation is by comparing graphs made using the rotating wave approximation, and graphs made with a more accurate model.

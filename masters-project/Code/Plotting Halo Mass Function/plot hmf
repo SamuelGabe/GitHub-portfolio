@@ -1,0 +1,19 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+dmmlist = ['lambda', 'cold', 'hot', 'wdm1', 'wdm2', 'wdm3', 'wdm4']
+stem = 'Data.nosync/Halo mass data/'
+
+plt.figure(figsize=(7,5))
+plt.xlabel('$z$')
+plt.ylabel('$M_H$')
+
+for dmm in dmmlist:
+    data  = np.load(stem + dmm + '.npy')
+    zarr  = data[0]
+    MHarr = data[1]
+
+    plt.plot(zarr, MHarr, label=dmm)
+
+plt.legend()
+plt.show()

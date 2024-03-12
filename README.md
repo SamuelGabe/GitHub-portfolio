@@ -45,7 +45,7 @@ This was a mini-project where I used Python to find out how traffic flow is affe
 * Creating mathematical models and implementing them in code
 * Using this code to conduct investigations
 
-[📄 View project report](traffic-flow-project/Scientific-Computing-Report.pdf)
+[📄 View project report](traffic-flow-project/Traffic-Flow-Report.pdf)
 
 [💻 View project code (separate repository)](https://github.com/UoNPhysics/scientific-computing-project-SamuelGabe)
 

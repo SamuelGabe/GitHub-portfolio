@@ -57,9 +57,9 @@ In my third year project, I worked with a partner to use machine learning to cat
 * Machine learning
   * TensorFlow
 
-[📄 View project report](third-year-project/Third-Year-Project-Notebook.pdf)
+[📄 View project report](third-year-project/Third-Year-Project-Report.pdf)
 
-[📒 View project notebook (includes examples of code used)](third-year-project/Third-Year-Project-Report.pdf)
+[📒 View project notebook (includes examples of code used)](third-year-project/Third-Year-Project-Notebook.pdf)
 
 ## Investigating the Rotating Wave Approximation
 The rotating wave approximation (RWA) is an approximation used in quantum mechanics to approximate a quantum system. In this project I used code to investigate how accurate this approximation is by comparing graphs made using the rotating wave approximation, and graphs made with a more accurate model.

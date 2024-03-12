@@ -35,6 +35,8 @@ In my final year project, I worked alongside my project partner to analyse a lar
 
 [💻 View project code]()
 
+**Please note that I do not have the right to upload the data to the web.**
+
 ## Third Year Project
 In my third year project, I worked with a partner to use machine learning to categorise images of space based on whether or not they had been gravitationally lensed. We successfully accomplished this task and created a model which categorised the images with 96% accuracy. 
 
@@ -51,7 +53,9 @@ In my third year project, I worked with a partner to use machine learning to cat
 This was a mini-project where I used Python to find out how traffic flow is affected depending on how many lanes there are. To do this I used a pre-existing model of traffic flow, then adapted it to a two-lane model, and compared traffic flow in both circumstances.
 
 **Skills**
-
+* Using Python to solve problems
+* Creating mathematical models and implementing them in code
+* Using this code to conduct investigations
 
 [📄 View project report]()
 
@@ -59,6 +63,11 @@ This was a mini-project where I used Python to find out how traffic flow is affe
 
 ## Investigating the Rotating Wave Approximation
 The rotating wave approximation (RWA) is an approximation used in quantum mechanics to approximate a quantum system. In this project I used code to investigate how accurate this approximation is by comparing graphs made using the rotating wave approximation, and graphs made with a more accurate model.
+
+**Skills**
+* Implementing mathematical models in Python
+* Using Python to investigate physics
+* NumPy and Matplotlib
 
 [📄 View project report]()
 
